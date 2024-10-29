@@ -1,0 +1,9 @@
+EmptyList=[]
+print()
+Numbers=[2,4,6,8,10]
+print(Numbers)
+Triple=[10,20,25]*3
+print(Triple)
+List1=[1,3,5,7,9]
+List1=List1[::-1]
+print(List1)
